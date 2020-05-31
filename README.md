@@ -1,5 +1,5 @@
 # Ally.Guide Overview
-Ally.guide is a web app hoping to support and strengthen racial justice movements by guiding folx to become better allies  by: educating, donating, activating policies, and collaborating with existing orgs through services. 
+Ally.guide is a web app hoping to support and strengthen racial justice movements against policy brutality by guiding folx to become better allies  by: educating, donating, activating policies, and collaborating with existing orgs through services. 
 
 ### Educate:
 - How to guides for antiracism (showing up to protests, talking to family members, etc)
